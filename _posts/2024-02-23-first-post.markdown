@@ -1,29 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-02-25 00:22:22 +0530
-categories: jekyll update
+title:  "Welcome!"
+date:   2024-02-25 01:57:00 +0530
+categories: personal updates
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my site. It is 2024 and I think there is too much real scrutiny as well as assumed scrutiny on what comes out of what comes out of every person's mouth rather than their actual actions. Here is my attempt at keeping a rough-scratch pad in production. I have been banned for no cleat reason from X a while ago due to which I had to start a new account, which annoyed the fuck out of me enough. However, this is not a reaction to events but something I had in mind for quite some time.
 
-Jekyll requires blog post files to be named according to the following format:
+I am watching my Glip team play CS GO at night on a 6 game winning streak. I don't play much these days because I am trying to cut down gaming. But I try to ask someone to stream matches so that I can watch them and join on discord (for fun). It is saturday night, I had to skipped an Anjunadeep music gig with the best friend group due to being a little sick.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<br>
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![Anjunadeep, UB City](/assets/anjunadeep_blr.webp)
 
-Jekyll also offers powerful support for code snippets:
+<br>
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Anyhow, will continue rambling on later!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<br>
+<br>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Read this beautiful letter from Richard Feynman again after a long time.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favourite letters, insightful &amp; humane, from Richard Feynman to a former student who was having a rough time<br><br>I was reflecting on it as an argument in favour of scope insensitivity, or even in favour of smaller problems: <a href="https://t.co/lEFI3A0uXO">pic.twitter.com/lEFI3A0uXO</a></p>&mdash; Michael Nielsen (@michael_nielsen) <a href="https://twitter.com/michael_nielsen/status/1761439112584933397?ref_src=twsrc%5Etfw">February 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Feynmen Letter page 1](/assets/feyn_letter_1.png)
+![Feynmen Letter page 2](/assets/feyn_letter_2.png)
