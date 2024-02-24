@@ -4,7 +4,7 @@ title:  "Welcome!"
 date:   2024-02-25 01:57:00 +0530
 categories: personal updates
 ---
-Welcome to my site. It is 2024 and I think there is too much real scrutiny as well as assumed scrutiny on what comes out of what comes out of every person's mouth rather than their actual actions. Here is my attempt at keeping a rough-scratch pad in production. I have been banned for no cleat reason from X a while ago due to which I had to start a new account, which annoyed the fuck out of me enough. However, this is not a reaction to events but something I had in mind for quite some time.
+Welcome to my site. It is 2024 and I think there is too much real scrutiny as well as assumed scrutiny on what comes out of what comes out of every person's mouth rather than their actual actions. Here is my attempt at keeping a rough-scratch pad in production. I have been banned for no clear reason from X a while ago due to which I had to start a new account, which annoyed the fuck out of me enough. However, this is not a reaction to events but something I had in mind for quite some time.
 
 I am watching my Glip team play CS GO at night on a 6 game winning streak. I don't play much these days because I am trying to cut down gaming. But I try to ask someone to stream matches so that I can watch them and join on discord (for fun). It is saturday night, I had to skipped an Anjunadeep music gig with the best friend group due to being a little sick.
 
